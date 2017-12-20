@@ -1,9 +1,9 @@
 # Coral-Programing-Language
 The executable version of coral programming language
 
-!#Installation
+# Installation
 
-1. Run the file "init.bat"
+1. Run the file 
 2. From the first step you will see the file "a.exe"
 3. Rename a.exe to coralc.exe
 4. Compile coral.c and precoral.c
@@ -15,11 +15,11 @@ The executable version of coral programming language
 10. Execute the .exe file
 
 
-!#Definition of Language
+# Definition of Language
 Comming soon...
 
 
-!#About
+# About
 
 This is the first approach. The target language has changed. 
 Now the compiler will produce bytecode for CVM (Coral Virtual Machine)
